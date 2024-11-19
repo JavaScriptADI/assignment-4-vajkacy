@@ -1,0 +1,13 @@
+{
+  "name": "loops",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^9.15.0",
+    "jest": "^29.7.0"
+  }
+}
